@@ -3,6 +3,10 @@ form {
     margin-top: 50px;
 }
 
+button {
+    color: red;
+}
+
 .navi {
     float: right;
     size: 100px;
